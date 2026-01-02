@@ -1,0 +1,1 @@
+ALTER TABLE "absensi_token" ADD COLUMN "label" varchar(255);
